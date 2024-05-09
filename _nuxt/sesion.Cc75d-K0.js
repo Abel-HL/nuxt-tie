@@ -1,0 +1,1 @@
+import{Q as s}from"./entry.Dt6Q4TK4.js";const i=s({id:"sesion",state:()=>({username:null,city:null}),actions:{setUsername(e){this.username=e},setCity(e){this.city=e},clearSession(){this.username=null,this.city=null}}});export{i as u};
